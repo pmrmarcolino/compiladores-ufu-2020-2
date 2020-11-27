@@ -3,4 +3,5 @@
 Como executar:
 
 flex -DYY_DECL="Token * yylex()" lex.l
+
 gcc -o exp lexer.c exp.c
