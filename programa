@@ -1,1 +1,7 @@
-op := 1+2
+programa principal
+{
+    int x;
+    float y;
+    char c;
+
+}

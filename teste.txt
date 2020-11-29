@@ -1,0 +1,20 @@
+if
+then
+else
+id_123
+id
+id123
+<
+>
+<=
+>=
+=
+<>
+123
+123.0
+123.1564E-123
+
+    /*comentario*/
+    //comentario
+
+.
